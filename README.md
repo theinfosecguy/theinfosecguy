@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**theinfosecguy/theinfosecguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/theinfosecguy/theinfosecguy.svg)](http://hits.dwyl.com/theinfosecguy/theinfosecguy)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Web App Security & Bug Bounty
+- 🌱 I’m currently learning React Javascript & Playing CTFs
+- 👯 I’m looking to collaborate on creating Responsive Web Desings using MERN Stack
+- 💬 Ask me about Web App Security , UI Designs , CTF's
+- 📫 How to reach me: infosecguy22@protonmail.com
+- 😄 Website: https://www.theinfosecguy.me
+- ⚡ Fun fact: Break Web Apps not Hearts :D
+
+I would love to Collaborate for Web Development Projects, Playing CTFs and Bug Bounties for Sure ! 
+
