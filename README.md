@@ -1,6 +1,7 @@
 # Hi there 👋
 
 [![HitCount](http://hits.dwyl.com/theinfosecguy/theinfosecguy.svg)](http://hits.dwyl.com/theinfosecguy/theinfosecguy)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
 - 🔭 I’m currently working on Web App Security & Bug Bounty 🌟
