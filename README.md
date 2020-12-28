@@ -14,5 +14,7 @@
 - 😄 Website: https://www.theinfosecguy.me
 - ⚡ Fun fact: Break Web Apps not Hearts :D
 
+Checkout my Blogs @ [My Blog Website](https://blog.theinfosecguy.me) 🔥 🔥 
+ 
 I would love to Collaborate on Web Development Projects, Playing CTFs and Bug Bounties for Sure ! ✨ 
 
