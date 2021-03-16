@@ -1,11 +1,10 @@
 # Hi there 👋
 
-
 [![HitCount](http://hits.dwyl.com/theinfosecguy/theinfosecguy.svg)](http://hits.dwyl.com/theinfosecguy/theinfosecguy)
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 <h3 align="center">
-<img src="https://cdn.rawgit.com/odb/official-bash-logo/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-color.png">
+<img src="https://user-images.githubusercontent.com/33570148/111264989-72693280-864e-11eb-8669-2df48167c036.png">
 </h3>
 
 
