@@ -14,7 +14,7 @@ I am <bold> Keshav Malik </bold> aka The Infosec Guy.
 - 🌱 I make Web Apps taking care of Web Security. ✨ 
 - 👯 I've been recognized by Google, Dell, MasterCard, Greenhouse etc for sending them security vulnerabilities. 📝
 - 💬 Ask me about Web App Security , UI Designs , Bug Bounties 🔥 
-- 📫 How to reach me: infosecguy22@protonmail.com
+- 📫 How to reach me: admin@theinfosecguy.tech
 - 😄 Website: https://www.theinfosecguy.tech
 - ⚡ Fun fact: Break Web Apps not Hearts :D
 
