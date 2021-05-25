@@ -1,7 +1,6 @@
 # Hi there <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="40">
 
 
-[![HitCount](http://hits.dwyl.com/theinfosecguy/theinfosecguy.svg)](http://hits.dwyl.com/theinfosecguy/theinfosecguy)
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 <h3 align="center">
