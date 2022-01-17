@@ -9,15 +9,13 @@
 
 I am <bold> Keshav Malik </bold> aka The Infosec Guy.
 
-- 🔭 I love to Hack ( Legally 😛) 🌟
-- 🌱 I make Web Apps taking care of Web Security. ✨ 
-- 👯 I've been recognized by Google, Dell, MasterCard, Greenhouse etc for sending them security vulnerabilities. 📝
-- 💬 Ask me about Web App Security , UI Designs , Bug Bounties 🔥 
-- 📫 How to reach me: admin@theinfosecguy.tech
+- 🔭 I love to Hack ( Legally :D) 🌟
+- 🌱 I develop Web Apps taking care of Web Security. ✨ 
+- 👯 I've been recognized by Google, Dell, MasterCard, Greenhouse etc for reporting security vulnerabilities. 📝
+- 💬 Ask me about Backend Development, Information Security , Bug Bounties 🔥 
+- 📫 How to reach me: infosecguy22@protonmail.com
 - 😄 Website: https://www.theinfosecguy.tech
 - ⚡ Fun fact: Break Web Apps not Hearts :D
 
-Checkout my Blogs @ [My Blog Website](https://blog.theinfosecguy.tech) 🔥 🔥 
- 
 Hit me Up if you have any cool project to work on !! ✨ 
 
