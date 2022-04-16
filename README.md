@@ -14,7 +14,7 @@ I am <bold> Keshav Malik </bold> aka The Infosec Guy.
 - 👯 I've been recognized by Google, Dell, MasterCard, Greenhouse etc for reporting security vulnerabilities. 📝
 - 💬 Ask me about Backend Development, Information Security , Bug Bounties 🔥 
 - 📫 How to reach me: infosecguy22@protonmail.com
-- 😄 Website: https://www.theinfosecguy.tech
+- 😄 Website: https://www.theinfosecguy.xyz
 - ⚡ Fun fact: Break Web Apps not Hearts :D
 
 Hit me Up if you have any cool project to work on !! ✨ 
