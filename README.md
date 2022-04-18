@@ -1,21 +1,11 @@
-# Hi there <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="40">
-
-
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-
 <h3 align="center">
 <img src="https://user-images.githubusercontent.com/33570148/111264989-72693280-864e-11eb-8669-2df48167c036.png">
 </h3>
 
-I am <bold> Keshav Malik </bold> aka The Infosec Guy.
+I am <strong> <i>Keshav Malik</i> </strong> aka <i> <a href="https://theinfosecguy.xyz">The Infosec Guy.</a></i>
 
-- 🔭 I love to Hack ( Legally :D) 🌟
-- 🌱 I develop Web Apps taking care of Web Security. ✨ 
-- 👯 I've been recognized by Google, Dell, MasterCard, Greenhouse etc for reporting security vulnerabilities. 📝
-- 💬 Ask me about Backend Development, Information Security , Bug Bounties 🔥 
-- 📫 How to reach me: infosecguy22@protonmail.com
-- 😄 Website: https://www.theinfosecguy.xyz
-- ⚡ Fun fact: Break Web Apps not Hearts :D
+I am building <i> <a href="https://vulnerable.live"> Vulnerable.Live </a> - Online Vulnerability Scanner </i>
 
-Hit me Up if you have any cool project to work on !! ✨ 
+Reach out to me via <i><a href="mailto:hello@theinfosecguy.xyz"/>hello@theinfosecguy.xyz</i>
 
+Checkout some of my <i><a href="https://linktr.ee/theinfosecguy">recent blog posts</a>! </i>
