@@ -4,7 +4,7 @@
 
 I am <strong> <i>Keshav Malik</i> </strong> aka <i> <a href="https://theinfosecguy.xyz">The Infosec Guy.</a></i>
 
-I am building <i> <a href="https://vulnerable.live"> Vulnerable.Live </a> - Online Vulnerability Scanner </i>
+I love automating stuff, building & breaking applications. 👨‍💻
 
 Reach out to me via <i><a href="mailto:hello@theinfosecguy.xyz"/>hello@theinfosecguy.xyz</i>
 
