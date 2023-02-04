@@ -7,5 +7,3 @@ I am <strong> <i>Keshav Malik</i> </strong> aka <i> <a href="https://theinfosecg
 I love automating stuff, building & breaking applications. 👨‍💻
 
 Reach out to me via <i><a href="mailto:hello@theinfosecguy.xyz"/>hello@theinfosecguy.xyz</i>
-
-Checkout some of my <i><a href="https://linktr.ee/theinfosecguy">recent blog posts</a>! </i>
