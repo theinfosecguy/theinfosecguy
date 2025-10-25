@@ -4,6 +4,6 @@
 
 I am <strong> <i>Keshav Malik</i> </strong> aka <i> <a href="https://theinfosecguy.xyz">The Infosec Guy.</a></i>
 
-I love automating stuff, building & breaking applications. 👨‍💻
+I love automating stuff (mostly related to security), building & breaking applications. 👨‍💻
 
 Reach out to me via <i><a href="mailto:hello@theinfosecguy.xyz"/>hello@theinfosecguy.xyz</i>
